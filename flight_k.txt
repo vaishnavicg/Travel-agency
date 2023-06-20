@@ -1,0 +1,24 @@
+Air_India                5000    80 Pune
+Indigo                  3000    90  Mumbai
+Jet_Airways            5000    60 Delhi
+Vistara                  6000    30 Nagaland
+Go_Air                  5000    60 Dubai
+Trujet                   4000    90 Varanasi
+Star_Air                 7500    36 Manali
+Akasa_Air               9500    76 Ladakh
+Fly_Big                  2000    63 Bengluru
+Spicejet                 3500     85 Delhi
+Air_India                3500    90  Mumbai
+Indigo                  5500    60 Delhi
+Jet_Airways            5200    30 Nagaland
+Vistara                  9000    36 Manali
+Go_Air                  4200    90 Varanasi
+Trujet                   2000    63 Bengluru
+Star_Air                 2200    76 Ladakh
+Akasa_Air               3500     85 Delhi
+Fly_Big                  5000    80 Pune
+Spicejet       5000    60 Dubai
+
+          
+
+

@@ -1,0 +1,63 @@
+Mastani_Mahal 5 Pune
+Mahabaleshwar 120 Pune
+Aga_Khan_Palace 8 Pune
+Shaniwar_Wada 5 Pune
+Khadakwasla_Dam 14 Pune
+Amanora_Mall 10 Pune
+Hauz_Khas_Fort 67 Delhi
+Lodhi_Garden 8 Delhi
+Adventure_Island 56 Delhi
+Qutub_Minar 67 Delhi
+Delhi_Eye 34 Delhi
+India_Gate 17 Delhi
+Marine_Drive 22 Mumbai
+Gateway_of_India 25 Mumbai
+Colaba_Causeway_Market 26 Mumbai
+Juhu_Beach 6 Mumbai
+Siddhivinayak_Temple 11 Mumbai
+Goregaon_Film_City 14 Mumbai
+Bannerghatta_National_Park 22 Bengaluru
+Skandagiri 62 Bengaluru
+Antargange 67 Bengaluru
+Coorg 264 Bengaluru
+Ramanagara 49 Bengaluru
+Nandi_Hills 61 Bengaluru
+Sarnath 10 Varanasi
+Vindhyachal 62 Varanasi
+Allahabad 120 Varanasi
+Vaishali 272 Varanasi
+Ayodhya 200 Varanasi
+Ramnagar_Fort 10 Varanasi
+Kohima 74 Nagaland
+Dimapur 70 Nagaland
+Mokokchung 104 Nagaland
+Wokha 69 Nagaland
+Khonoma_Green_Village 50 Nagaland
+Longleng 90 Nagaland
+The_Dubai_Fountain 8 Dubai
+Burj_Khalifa 78 Dubai
+The_Dubai_Mall 54 Dubai
+Atlantis_Aquaventure_Waterpark 28 Dubai
+Dubai_Miracle_Garden 9 Dubai
+Ski_Dubai 67 Dubai
+Arjun_Gufa(cave) 5 Manali
+Patalsu_Peak_Trek 13 Manali
+Sethan 13 Manali
+Manikaran 81 Manali
+Bhrigu_Lake 18 Manali
+Kullu_Valley 45 Manali
+Baa_Atoll 2 Maldives
+Male 7 Maldives
+Artificial_Beach 89 Maldives
+Bioluminescent Beach 100 Maldives 
+National Museum 99 Maldives
+Maldive Victory 68 Maldives
+Pangong_Tso 8 Ladakh
+Hall_Of_Fame 78 Ladakh 
+Thiksey_Monastery 56 Ladakh
+Khardung_La 90 Ladakh
+Shanti_Stupa 45 Ladakh
+Dras_War_Memorial 108 Ladakh
+
+
+
